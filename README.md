@@ -66,7 +66,6 @@ email:test@admin.com
 password:123456789
 ~~~
 
-**How to log in as admin:**
 
 ** To run laravel jobs **
 
