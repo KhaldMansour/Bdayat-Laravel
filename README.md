@@ -12,34 +12,47 @@
 ~~~
  composer install
 ~~~
+
 ~~~
 php artisan migrate
 ~~~
+
 ~~~
 php artisan db:seed
 ~~~
+
+~~~
 php artisan key:generate
 ~~~
+
 ~~~
 php artisan passport:install
 ~~~
+
 ~~~
 php artisan passport:keys
 ~~~
+
 ~~~
 php artisan queue:table
 ~~~
+
 ~~~
 php artisan migrate
 ~~~
+
 ~~~
 php artisan vendor:publish
 ~~~
+
+~~~
 Type 0 then press enter
 ~~~
+
 ~~~
 php artisan optimize
 ~~~
+
 ~~~
 php artisan serve
 ~~~
